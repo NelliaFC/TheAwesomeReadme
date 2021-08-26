@@ -3,6 +3,7 @@ const inquirer = require('inquirer')
 const fs = require('fs')
 const generateMarkdown = require('./utils/generateMarkdown');
 const Choice = require('inquirer/lib/objects/choice');
+
 // TODO: Create an array of questions for user input
 const questions = [
 {
@@ -12,29 +13,51 @@ const questions = [
 },
 {
     type: "input", 
-    message: "What is your GitHub username?",
-    name: "GitHub"   
-   },
-   {
-    type: "input", 
     message: "What does the app do?",
     name: "description"   
    },
+
    {
-   type: "list",
-   message: "What type of licence do you want to choose?",
+    type: "input",
+    message: "What are the installation instructions for this project",
+    name: "installation",
+   },
+
+   {
+    type: "input",
+    message: "How to use this application?",
+    name: "usage",
+   },
+   
+   {
+    type: "input",
+    message: "Names of contributors to this project",
+    name: "contributors",
+   },
+   
+   {
+   type: "checkbox",
+   message: "Choose your license",
    name: "license",
    choices: ["Apache", "MIT", "Other", "GPLv3"]
    },
-   {type: "list",
-   message: "what does the README contain?",
-   name: "tableofcontent",
-   choices: [ "Description", "Installation", "Usage", "License", "Contributors", "Tests", "Questions?"]
+
+   {
+    type: "input",
+    message: "What are the TEST instructions?",
+    name: "test",
+   },
+
+   {
+    type: "input",
+    message: "What is your GitHub name?",
+    name: "username",
+    
 },
    {type: "input",
-   message: "Do you have any questions? Contact me",
-   name:"questions",
-   choices: ["phone","e-mail", "GitHub",]
+   message: "What is your e-mail address?",
+   name:"email",
+   
    }
 ]
 ;
