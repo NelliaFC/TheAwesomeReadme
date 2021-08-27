@@ -19,7 +19,7 @@ const questions = [
 
    {
     type: "input",
-    message: "What are the installation instructions for this project",
+    message: "What are the installation instructions for this project?",
     name: "installation",
    },
 
@@ -36,7 +36,7 @@ const questions = [
    },
    
    {
-   type: "checkbox",
+   type: "list",
    message: "Choose your license",
    name: "license",
    choices: ["Apache", "MIT", "Other", "GPLv3"]
@@ -51,10 +51,11 @@ const questions = [
    {
     type: "input",
     message: "What is your GitHub name?",
-    name: "username",
+    name: "github",
     
 },
-   {type: "input",
+   {
+   type: "input",
    message: "What is your e-mail address?",
    name:"email",
    
