@@ -1,5 +1,5 @@
 
-# TheAWESOME READme
+# THE AWESOME README
 
 ## Table of Contents:
 
@@ -16,28 +16,28 @@
     
    
 
-   It creates a read me file for your project, with smooth looking format and easy to read presentation
+   Creates a ReadMe file that can be used for project description, looks smooth, easy to read
 ## Installation:
-      You have to have node.js packages installed as well as json and inquirer package installed or the app will not work
+      You must install inquirer package from node modules, node js and json
 ## Usage:   
-      Use it to create a nice looking read me file for your convenience and reuse this app anytime you are creating a readme
+      Use it to creat a good looking and easy to read README file for your projects
 ## Contributors:   
-      Nellia Fleurova Charlton sole contributor.
+      Nellia Fleurova-Charlton
 ## Test:
       none
 ## License:
         For more inforamtion about the License, click on the link below:  
-      Apache
+      MIT
 ## Email:
       nellia.f.charlton@gmail.com      
 
 ## Github
       For questions about this project please find me on Github. Follow the link below
-      -[GitHub Profile](https://github.com/NelliaFC)
+      -[GitHub Profile](https://github.com/Nellia FC)
    
       To connect via email please reach out at : nellia.f.charlton@gmail.com.
 
 
-  https://opensource.org/licenses/Apache-2.0
-  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  https://opensource.org/licenses/MIT
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
