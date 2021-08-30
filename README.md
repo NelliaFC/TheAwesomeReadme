@@ -1,5 +1,5 @@
 
-# THE AWESOME README
+# TheAWESOME ReadME
 
 ## Table of Contents:
 
@@ -16,28 +16,28 @@
     
    
 
-   Creates a ReadMe file that can be used for project description, looks smooth, easy to read
+   Creates a smooth looking easy to read READme file for all your projects
 ## Installation:
-      You must install inquirer package from node modules, node js and json
+      Must install node.js, must install inquirer package from node.J
 ## Usage:   
-      Use it to creat a good looking and easy to read README file for your projects
+      Use it to create easy to read README files that are also easy to use
 ## Contributors:   
-      Nellia Fleurova-Charlton
+      Nellia FC
 ## Test:
       none
 ## License:
         For more inforamtion about the License, click on the link below:  
-      MIT
+      Other
 ## Email:
-      nellia.f.charlton@gmail.com      
+      Nellia.f.charlton@gmail.com      
 
 ## Github
       For questions about this project please find me on Github. Follow the link below
-      -[GitHub Profile](https://github.com/Nellia FC)
+      -[GitHub Profile](https://github.com/NelliaFC)
    
-      To connect via email please reach out at : nellia.f.charlton@gmail.com.
+      To connect via email please reach out at : Nellia.f.charlton@gmail.com.
 
 
-  https://opensource.org/licenses/MIT
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  http://unlicense.org/
+  [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
